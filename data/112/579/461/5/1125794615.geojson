@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-42.58333,
-    "lbl:longitude":171.46667,
+    "lbl:latitude":-42.565956,
+    "lbl:longitude":171.530536,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-42.565956,
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"West Coast",
@@ -117,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850198,
+    "wof:lastmodified":1694320521,
     "wof:name":"Moana",
     "wof:parent_id":102079361,
     "wof:placetype":"locality",

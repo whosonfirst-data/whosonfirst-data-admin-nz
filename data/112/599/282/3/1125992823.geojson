@@ -11,8 +11,8 @@
     "geom:longitude":173.005615,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-42.895612,
-    "lbl:longitude":173.09737,
+    "lbl:latitude":-42.932843,
+    "lbl:longitude":173.016459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-42.932843,
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -102,7 +102,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850172,
+    "wof:lastmodified":1694320533,
     "wof:name":"Greta Valley",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

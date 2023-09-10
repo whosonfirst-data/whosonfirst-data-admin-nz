@@ -11,8 +11,8 @@
     "geom:longitude":174.678209,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-37.281975,
-    "lbl:longitude":174.654121,
+    "lbl:latitude":-37.253781,
+    "lbl:longitude":174.678825,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-37.253781,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -89,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137955,
+    "wof:lastmodified":1694320531,
     "wof:name":"Karioitahi",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

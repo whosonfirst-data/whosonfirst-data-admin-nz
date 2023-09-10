@@ -11,8 +11,8 @@
     "geom:longitude":174.682246,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-36.574961,
-    "lbl:longitude":174.695088,
+    "lbl:latitude":-36.567058,
+    "lbl:longitude":174.681225,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.567058,
@@ -51,7 +51,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Auckland Region",
@@ -90,7 +90,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617130583,
+    "wof:lastmodified":1694320526,
     "wof:name":"Hatfields Beach",
     "wof:parent_id":85687243,
     "wof:placetype":"locality",

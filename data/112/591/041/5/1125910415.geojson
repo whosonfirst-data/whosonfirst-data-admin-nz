@@ -11,8 +11,8 @@
     "geom:longitude":176.383332,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-38.200215,
-    "lbl:longitude":176.394561,
+    "lbl:latitude":-38.197912,
+    "lbl:longitude":176.38388,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-38.197912,
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Bay of Plenty",
@@ -119,7 +119,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137681,
+    "wof:lastmodified":1694320528,
     "wof:name":"Lake Tarawera",
     "wof:parent_id":102079289,
     "wof:placetype":"locality",

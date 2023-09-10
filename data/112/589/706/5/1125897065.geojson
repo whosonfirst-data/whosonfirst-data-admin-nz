@@ -11,8 +11,8 @@
     "geom:longitude":175.317402,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-40.11701,
-    "lbl:longitude":175.330359,
+    "lbl:latitude":-40.129475,
+    "lbl:longitude":175.321459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-40.129475,
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Manawatu Wanganui",
@@ -97,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140216,
+    "wof:lastmodified":1694320527,
     "wof:name":"Lake Alice",
     "wof:parent_id":1729238525,
     "wof:placetype":"locality",

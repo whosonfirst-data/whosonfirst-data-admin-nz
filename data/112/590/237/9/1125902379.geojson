@@ -11,8 +11,8 @@
     "geom:longitude":175.458887,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-36.857115,
-    "lbl:longitude":175.440759,
+    "lbl:latitude":-36.819033,
+    "lbl:longitude":175.462555,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.819033,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -89,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137658,
+    "wof:lastmodified":1694320527,
     "wof:name":"Te Kouma",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

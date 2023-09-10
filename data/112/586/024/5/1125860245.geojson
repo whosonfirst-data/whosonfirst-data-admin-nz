@@ -11,8 +11,8 @@
     "geom:longitude":175.410487,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-41.570893,
-    "lbl:longitude":175.395183,
+    "lbl:latitude":-41.487953,
+    "lbl:longitude":175.409179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.487953,
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Wellington",
@@ -132,7 +132,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230512,
+    "wof:lastmodified":1694320526,
     "wof:name":"White Rock",
     "wof:parent_id":85687233,
     "wof:placetype":"locality",

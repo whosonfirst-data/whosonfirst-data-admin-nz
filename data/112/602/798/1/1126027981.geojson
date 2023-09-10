@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-39.55,
-    "lbl:longitude":176.9,
+    "lbl:latitude":-39.547166,
+    "lbl:longitude":176.915137,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-39.547166,
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Hawke's Bay",
@@ -104,7 +104,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850153,
+    "wof:lastmodified":1694320535,
     "wof:name":"Awatoto",
     "wof:parent_id":1729238511,
     "wof:placetype":"locality",

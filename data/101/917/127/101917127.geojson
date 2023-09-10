@@ -10,8 +10,8 @@
     "geom:latitude":-41.162124,
     "geom:longitude":175.131895,
     "iso:country":"NZ",
-    "lbl:latitude":-41.115431,
-    "lbl:longitude":175.125236,
+    "lbl:latitude":-41.15897,
+    "lbl:longitude":175.146248,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.15897,
@@ -54,11 +54,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
+        85687233,
         102191583,
-        85633345,
-        102079335,
         1729238597,
-        85687233
+        85633345,
+        102079335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230415,
+    "wof:lastmodified":1694320520,
     "wof:name":"Mangaroa",
     "wof:parent_id":1729238597,
     "wof:placetype":"locality",

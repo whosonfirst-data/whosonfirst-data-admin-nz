@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-42.3,
-    "lbl:longitude":173.75,
+    "lbl:latitude":-42.261297,
+    "lbl:longitude":173.698931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-42.261297,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -96,7 +96,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137427,
+    "wof:lastmodified":1694320524,
     "wof:name":"Mangamaunu",
     "wof:parent_id":85687179,
     "wof:placetype":"locality",

@@ -11,8 +11,8 @@
     "geom:longitude":173.569564,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-35.649275,
-    "lbl:longitude":173.548622,
+    "lbl:latitude":-35.633015,
+    "lbl:longitude":173.602165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-35.633015,
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Northland",
@@ -78,8 +78,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079255,
-        85687149
+        85687149,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +111,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230682,
+    "wof:lastmodified":1694320525,
     "wof:name":"Waipoua Forest",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

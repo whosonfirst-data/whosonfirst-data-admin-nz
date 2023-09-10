@@ -11,8 +11,8 @@
     "geom:longitude":174.916172,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-41.275315,
-    "lbl:longitude":174.90464,
+    "lbl:latitude":-41.276699,
+    "lbl:longitude":174.916144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.276699,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Wellington",
@@ -87,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138027,
+    "wof:lastmodified":1694320532,
     "wof:name":"Sunshine Bay",
     "wof:parent_id":85687233,
     "wof:placetype":"locality",

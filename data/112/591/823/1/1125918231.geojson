@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-43.65,
-    "lbl:longitude":172.65,
+    "lbl:latitude":-43.63907,
+    "lbl:longitude":172.63595,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-43.63907,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -98,7 +98,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137693,
+    "wof:lastmodified":1694320528,
     "wof:name":"Allandale",
     "wof:parent_id":102079401,
     "wof:placetype":"locality",

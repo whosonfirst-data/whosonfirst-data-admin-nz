@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-39.43333,
-    "lbl:longitude":174.03333,
+    "lbl:latitude":-39.421245,
+    "lbl:longitude":173.993396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-39.421245,
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Taranaki",
@@ -91,7 +91,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137252,
+    "wof:lastmodified":1694320522,
     "wof:name":"Te Kiri",
     "wof:parent_id":102079295,
     "wof:placetype":"locality",

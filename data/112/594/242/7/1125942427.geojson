@@ -11,8 +11,8 @@
     "geom:longitude":174.599893,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-37.006328,
-    "lbl:longitude":174.603899,
+    "lbl:latitude":-36.983276,
+    "lbl:longitude":174.599893,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.983276,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Auckland Region",
@@ -87,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137811,
+    "wof:lastmodified":1694320530,
     "wof:name":"Cornwallis",
     "wof:parent_id":85687243,
     "wof:placetype":"locality",

@@ -10,8 +10,8 @@
     "geom:latitude":-46.042031,
     "geom:longitude":170.17533,
     "iso:country":"NZ",
-    "lbl:latitude":-46.069069,
-    "lbl:longitude":170.196525,
+    "lbl:latitude":-46.04103,
+    "lbl:longitude":170.174788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-46.04103,
@@ -59,8 +59,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079389,
-        85687201
+        85687201,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +94,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230333,
+    "wof:lastmodified":1694320517,
     "wof:name":"Taieri Mouth",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

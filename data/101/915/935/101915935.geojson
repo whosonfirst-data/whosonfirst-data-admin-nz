@@ -12,8 +12,8 @@
     "gn:latitude":-38.66824,
     "gn:longitude":178.08021,
     "iso:country":"NZ",
-    "lbl:latitude":-38.657572,
-    "lbl:longitude":178.116144,
+    "lbl:latitude":-38.668645,
+    "lbl:longitude":178.085973,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-38.668645,
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85633345,
@@ -100,7 +100,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617131202,
+    "wof:lastmodified":1694320519,
     "wof:name":"Okitu",
     "wof:parent_id":85687237,
     "wof:placetype":"locality",

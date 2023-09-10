@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-42.83333,
-    "lbl:longitude":171.55,
+    "lbl:latitude":-42.79047,
+    "lbl:longitude":171.60762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-42.79047,
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"West Coast",
@@ -79,8 +79,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079363,
-        85687165
+        85687165,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230561,
+    "wof:lastmodified":1694320533,
     "wof:name":"Otira",
     "wof:parent_id":102079363,
     "wof:placetype":"locality",

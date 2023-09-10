@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-39.73333,
-    "lbl:longitude":175.85,
+    "lbl:latitude":-39.745364,
+    "lbl:longitude":175.818203,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-39.745364,
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Manawatu Wanganui",
@@ -97,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603140306,
+    "wof:lastmodified":1694320522,
     "wof:name":"Utiku",
     "wof:parent_id":1729238543,
     "wof:placetype":"locality",

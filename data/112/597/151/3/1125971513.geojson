@@ -13,11 +13,11 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-45.01667,
-    "lbl:longitude":169.21667,
+    "lbl:latitude":-45.00405,
+    "lbl:longitude":169.200929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":-45.004049,
+    "mps:latitude":-45.00405,
     "mps:longitude":169.200929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -73,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079383,
-        85687201
+        85687201,
+        102079383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230582,
+    "wof:lastmodified":1694320531,
     "wof:name":"Lowburn",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

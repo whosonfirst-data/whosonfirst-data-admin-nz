@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":330,
     "iso:country":"NZ",
-    "lbl:latitude":-44.01667,
-    "lbl:longitude":170.5,
+    "lbl:latitude":-44.009975,
+    "lbl:longitude":170.473572,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":-44.009975,
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -134,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850203,
+    "wof:lastmodified":1694320520,
     "wof:name":"Lake Tekapo",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

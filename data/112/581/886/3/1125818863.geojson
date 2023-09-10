@@ -11,8 +11,8 @@
     "geom:longitude":176.734868,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-38.684954,
-    "lbl:longitude":176.700553,
+    "lbl:latitude":-38.534176,
+    "lbl:longitude":176.752328,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-38.534176,
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Bay of Plenty",
@@ -108,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850160,
+    "wof:lastmodified":1694320522,
     "wof:name":"Minginui",
     "wof:parent_id":102079291,
     "wof:placetype":"locality",

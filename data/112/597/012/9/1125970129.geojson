@@ -11,11 +11,11 @@
     "geom:longitude":172.750407,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-43.57781,
-    "lbl:longitude":172.752914,
+    "lbl:latitude":-43.576995,
+    "lbl:longitude":172.749099,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":-43.576994,
+    "mps:latitude":-43.576995,
     "mps:longitude":172.749099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -98,7 +98,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137949,
+    "wof:lastmodified":1694320530,
     "wof:name":"Richmond Hill",
     "wof:parent_id":1729238507,
     "wof:placetype":"locality",

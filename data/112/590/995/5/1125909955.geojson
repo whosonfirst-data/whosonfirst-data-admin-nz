@@ -11,8 +11,8 @@
     "geom:longitude":168.577341,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-45.192804,
-    "lbl:longitude":168.742276,
+    "lbl:latitude":-45.230757,
+    "lbl:longitude":168.602004,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.230757,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -89,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137680,
+    "wof:lastmodified":1694320528,
     "wof:name":"Halfway Bay",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

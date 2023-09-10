@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-39.51667,
-    "lbl:longitude":174.36667,
+    "lbl:latitude":-39.484725,
+    "lbl:longitude":174.428866,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-39.484725,
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Taranaki",
@@ -97,7 +97,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603139855,
+    "wof:lastmodified":1694320524,
     "wof:name":"Ararata",
     "wof:parent_id":1729238475,
     "wof:placetype":"locality",

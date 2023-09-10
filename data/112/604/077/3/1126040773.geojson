@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-37.61667,
-    "lbl:longitude":177.91667,
+    "lbl:latitude":-37.682731,
+    "lbl:longitude":177.925296,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-37.682731,
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Bay of Plenty",
@@ -93,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617131292,
+    "wof:lastmodified":1694320535,
     "wof:name":"Waihau Bay",
     "wof:parent_id":85687175,
     "wof:placetype":"locality",

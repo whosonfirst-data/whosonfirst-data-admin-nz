@@ -11,8 +11,8 @@
     "geom:longitude":175.723293,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-38.566824,
-    "lbl:longitude":175.710697,
+    "lbl:latitude":-38.610874,
+    "lbl:longitude":175.728875,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-38.610874,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -89,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138246,
+    "wof:lastmodified":1694320535,
     "wof:name":"Tihoi",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

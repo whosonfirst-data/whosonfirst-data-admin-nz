@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-46.0,
-    "lbl:longitude":168.81667,
+    "lbl:latitude":-45.972448,
+    "lbl:longitude":168.767712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.972448,
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Southland",
@@ -132,7 +132,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495132,
+    "wof:lastmodified":1694320532,
     "wof:name":"Mandeville",
     "wof:parent_id":102079393,
     "wof:placetype":"locality",

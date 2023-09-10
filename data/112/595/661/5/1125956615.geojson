@@ -11,8 +11,8 @@
     "geom:longitude":168.618833,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-45.111702,
-    "lbl:longitude":168.542214,
+    "lbl:latitude":-45.131891,
+    "lbl:longitude":168.635224,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.131891,
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -89,8 +89,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079385,
-        85687201
+        85687201,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +122,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230473,
+    "wof:lastmodified":1694320530,
     "wof:name":"Cecil Peak",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

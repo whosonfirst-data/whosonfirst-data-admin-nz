@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-43.71667,
-    "lbl:longitude":171.4,
+    "lbl:latitude":-43.682116,
+    "lbl:longitude":171.393718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-43.682116,
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -79,8 +79,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079371,
-        85687179
+        85687179,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230437,
+    "wof:lastmodified":1694320530,
     "wof:name":"Mount Somers",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

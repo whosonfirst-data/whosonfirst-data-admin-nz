@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-38.38333,
-    "lbl:longitude":176.01667,
+    "lbl:latitude":-38.356074,
+    "lbl:longitude":176.110406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-38.356074,
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -117,7 +117,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850195,
+    "wof:lastmodified":1694320521,
     "wof:name":"Atiamuri",
     "wof:parent_id":102079277,
     "wof:placetype":"locality",

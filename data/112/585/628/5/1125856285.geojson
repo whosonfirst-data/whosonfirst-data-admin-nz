@@ -11,8 +11,8 @@
     "geom:longitude":175.535961,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-37.096951,
-    "lbl:longitude":175.515165,
+    "lbl:latitude":-37.089725,
+    "lbl:longitude":175.531833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-37.089725,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -87,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137479,
+    "wof:lastmodified":1694320525,
     "wof:name":"Whakatete Bay",
     "wof:parent_id":85687229,
     "wof:placetype":"locality",

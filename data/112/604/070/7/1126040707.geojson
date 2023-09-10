@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-46.6,
-    "lbl:longitude":169.13333,
+    "lbl:latitude":-46.58665,
+    "lbl:longitude":169.126938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-46.58665,
@@ -155,7 +155,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Southland",
@@ -197,7 +197,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495130,
+    "wof:lastmodified":1694320535,
     "wof:name":"Niagara",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

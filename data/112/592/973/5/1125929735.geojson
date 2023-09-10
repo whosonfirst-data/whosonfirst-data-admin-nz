@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-45.08333,
-    "lbl:longitude":169.16667,
+    "lbl:latitude":-45.088194,
+    "lbl:longitude":169.148743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.088194,
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -149,7 +149,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137770,
+    "wof:lastmodified":1694320529,
     "wof:name":"Bannockburn",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-36.9,
-    "lbl:longitude":175.76667,
+    "lbl:latitude":-36.93226,
+    "lbl:longitude":175.784165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.93226,
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -105,7 +105,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137806,
+    "wof:lastmodified":1694320530,
     "wof:name":"Whenuakite",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

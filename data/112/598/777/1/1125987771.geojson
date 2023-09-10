@@ -11,8 +11,8 @@
     "geom:longitude":174.634055,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-36.378104,
-    "lbl:longitude":174.633178,
+    "lbl:latitude":-36.353781,
+    "lbl:longitude":174.633294,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.353781,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Auckland Region",
@@ -89,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138069,
+    "wof:lastmodified":1694320532,
     "wof:name":"Dome Valley",
     "wof:parent_id":102079403,
     "wof:placetype":"locality",

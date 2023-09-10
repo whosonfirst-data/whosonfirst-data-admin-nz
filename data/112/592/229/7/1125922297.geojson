@@ -11,8 +11,8 @@
     "geom:longitude":175.35345,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-36.480064,
-    "lbl:longitude":175.347011,
+    "lbl:latitude":-36.488875,
+    "lbl:longitude":175.363245,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.488875,
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",
@@ -165,7 +165,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230458,
+    "wof:lastmodified":1694320529,
     "wof:name":"Port Jackson",
     "wof:parent_id":85687229,
     "wof:placetype":"locality",

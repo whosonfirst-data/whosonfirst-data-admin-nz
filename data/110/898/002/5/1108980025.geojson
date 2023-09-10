@@ -13,8 +13,8 @@
     "gn:fcode":"PPLX",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-41.08827,
-    "lbl:longitude":174.8702,
+    "lbl:latitude":-41.088849,
+    "lbl:longitude":174.877402,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.088849,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Wellington",
@@ -101,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850013,
+    "wof:lastmodified":1694320520,
     "wof:name":"Camborne",
     "wof:parent_id":1729238563,
     "wof:placetype":"locality",

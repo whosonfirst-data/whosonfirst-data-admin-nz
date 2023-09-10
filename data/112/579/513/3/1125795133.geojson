@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-42.13333,
-    "lbl:longitude":171.88333,
+    "lbl:latitude":-42.1316,
+    "lbl:longitude":171.88142,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-42.1316,
@@ -51,7 +51,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"West Coast",
@@ -93,7 +93,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137233,
+    "wof:lastmodified":1694320522,
     "wof:name":"Blacks Point",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

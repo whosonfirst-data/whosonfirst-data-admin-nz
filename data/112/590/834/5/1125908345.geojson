@@ -11,8 +11,8 @@
     "geom:longitude":174.032753,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-41.209359,
-    "lbl:longitude":174.032731,
+    "lbl:latitude":-41.198457,
+    "lbl:longitude":174.040669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.198457,
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Marlborough",
@@ -101,8 +101,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079353,
-        85687185
+        85687185,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230577,
+    "wof:lastmodified":1694320528,
     "wof:name":"Portage",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

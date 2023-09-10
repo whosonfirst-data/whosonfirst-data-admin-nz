@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":403,
     "iso:country":"NZ",
-    "lbl:latitude":-37.73333,
-    "lbl:longitude":177.68333,
+    "lbl:latitude":-37.773465,
+    "lbl:longitude":177.770956,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":-37.773465,
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
@@ -113,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850191,
+    "wof:lastmodified":1694320520,
     "wof:name":"Te Kaha",
     "wof:parent_id":85687175,
     "wof:placetype":"locality",

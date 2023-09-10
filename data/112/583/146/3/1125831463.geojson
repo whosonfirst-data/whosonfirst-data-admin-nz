@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-39.25,
-    "lbl:longitude":176.68333,
+    "lbl:latitude":-39.250411,
+    "lbl:longitude":176.739664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-39.250411,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Hawke's Bay",
@@ -108,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850207,
+    "wof:lastmodified":1694320524,
     "wof:name":"Te Pohue",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

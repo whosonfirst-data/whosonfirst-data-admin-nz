@@ -11,8 +11,8 @@
     "geom:longitude":174.117805,
     "gn:country":"NZ",
     "iso:country":"NZ",
-    "lbl:latitude":-41.23187,
-    "lbl:longitude":174.147033,
+    "lbl:latitude":-41.249108,
+    "lbl:longitude":174.117986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.249108,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Marlborough",
@@ -87,7 +87,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137386,
+    "wof:lastmodified":1694320524,
     "wof:name":"Curious Cove",
     "wof:parent_id":85687185,
     "wof:placetype":"locality",

@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-45.15,
-    "lbl:longitude":169.66667,
+    "lbl:latitude":-45.102467,
+    "lbl:longitude":169.7238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.102467,
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -67,8 +67,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079383,
-        85687201
+        85687201,
+        102079383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230509,
+    "wof:lastmodified":1694320535,
     "wof:name":"Poolburn",
     "wof:parent_id":102079383,
     "wof:placetype":"locality",

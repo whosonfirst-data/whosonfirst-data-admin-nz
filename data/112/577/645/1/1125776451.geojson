@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-38.8,
-    "lbl:longitude":174.6,
+    "lbl:latitude":-38.806817,
+    "lbl:longitude":174.659699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-38.806817,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Taranaki",
@@ -73,8 +73,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079311,
-        85687195
+        85687195,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +108,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230693,
+    "wof:lastmodified":1694320521,
     "wof:name":"Tongaporutu",
     "wof:parent_id":102079311,
     "wof:placetype":"locality",

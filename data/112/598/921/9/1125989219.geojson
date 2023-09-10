@@ -11,8 +11,8 @@
     "geom:longitude":174.811856,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-41.358853,
-    "lbl:longitude":174.849128,
+    "lbl:latitude":-41.337133,
+    "lbl:longitude":174.811223,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.337133,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Wellington",
@@ -91,7 +91,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138083,
+    "wof:lastmodified":1694320533,
     "wof:name":"Moa Point",
     "wof:parent_id":1729238533,
     "wof:placetype":"locality",

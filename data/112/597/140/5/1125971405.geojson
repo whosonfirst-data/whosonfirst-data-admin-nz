@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-44.95,
-    "lbl:longitude":170.66667,
+    "lbl:latitude":-44.933158,
+    "lbl:longitude":170.703688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-44.933158,
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
@@ -95,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603137977,
+    "wof:lastmodified":1694320531,
     "wof:name":"Island Cliff",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

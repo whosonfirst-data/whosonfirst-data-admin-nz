@@ -11,8 +11,8 @@
     "geom:longitude":172.83121,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-41.256904,
-    "lbl:longitude":172.821593,
+    "lbl:latitude":-41.277103,
+    "lbl:longitude":172.831618,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.277103,
@@ -168,7 +168,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Tasman",
@@ -176,8 +176,8 @@
     "wof:belongsto":[
         102191583,
         85633345,
-        102079349,
-        85687219
+        85687219,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -209,7 +209,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603230451,
+    "wof:lastmodified":1694320529,
     "wof:name":"Woodstock",
     "wof:parent_id":102079349,
     "wof:placetype":"locality",

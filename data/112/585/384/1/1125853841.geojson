@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":486,
     "iso:country":"NZ",
-    "lbl:latitude":-35.4,
-    "lbl:longitude":173.5,
+    "lbl:latitude":-35.444325,
+    "lbl:longitude":173.565517,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":-35.444325,
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191583,
@@ -130,7 +130,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1617130671,
+    "wof:lastmodified":1694320525,
     "wof:name":"Rawene",
     "wof:parent_id":85687149,
     "wof:placetype":"locality",

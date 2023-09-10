@@ -11,8 +11,8 @@
     "geom:longitude":173.212438,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-34.980001,
-    "lbl:longitude":173.173419,
+    "lbl:latitude":-34.982649,
+    "lbl:longitude":173.210136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-34.982649,
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Northland",
@@ -95,7 +95,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138133,
+    "wof:lastmodified":1694320534,
     "wof:name":"Paparore",
     "wof:parent_id":102079255,
     "wof:placetype":"locality",

@@ -11,8 +11,8 @@
     "geom:longitude":176.894572,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-39.631473,
-    "lbl:longitude":176.912455,
+    "lbl:latitude":-39.619879,
+    "lbl:longitude":176.895785,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-39.619879,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Hawke's Bay",
@@ -89,7 +89,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138210,
+    "wof:lastmodified":1694320534,
     "wof:name":"Mangateretere",
     "wof:parent_id":102079329,
     "wof:placetype":"locality",

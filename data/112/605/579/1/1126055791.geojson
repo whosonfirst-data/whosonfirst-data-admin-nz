@@ -11,8 +11,8 @@
     "geom:longitude":168.434273,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-45.108044,
-    "lbl:longitude":168.456888,
+    "lbl:latitude":-45.206948,
+    "lbl:longitude":168.432221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.206948,
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",
@@ -101,7 +101,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1603138285,
+    "wof:lastmodified":1694320536,
     "wof:name":"Walter Peak",
     "wof:parent_id":102079385,
     "wof:placetype":"locality",

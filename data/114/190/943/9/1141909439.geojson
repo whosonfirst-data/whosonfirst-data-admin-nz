@@ -10,8 +10,8 @@
     "geom:latitude":-36.990685,
     "geom:longitude":174.87609,
     "iso:country":"NZ",
-    "lbl:latitude":-36.99997,
-    "lbl:longitude":174.884971,
+    "lbl:latitude":-36.991578,
+    "lbl:longitude":174.879865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.991578,
@@ -160,6 +160,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687243,
         102191583,
@@ -196,7 +197,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495140,
+    "wof:lastmodified":1694320536,
     "wof:name":"Manukau",
     "wof:parent_id":1729238453,
     "wof:placetype":"locality",
