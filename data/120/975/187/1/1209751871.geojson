@@ -43,7 +43,7 @@
         "gn:id":2180614
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eea8ed0a961d9962f33a0554ddc5b8ba",
+    "wof:geomhash":"643ca39e84e3fb9dbf6326451efb7213",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -77,5 +77,5 @@
     175.96667,
     -40.0
 ],
-  "geometry": {"coordinates":[175.96666999999999,-40.0],"type":"Point"}
+  "geometry": {"coordinates":[175.96667,-40],"type":"Point"}
 }

@@ -72,7 +72,7 @@
     },
     "wof:country":"NZ",
     "wof:created":1497295302,
-    "wof:geomhash":"b5f487893c450e2f0a5d88400b503ec0",
+    "wof:geomhash":"3e250cd4358e9ff3cfa54a8b9882d8b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -106,5 +106,5 @@
     172.0,
     -43.38333
 ],
-  "geometry": {"coordinates":[172.0,-43.38333],"type":"Point"}
+  "geometry": {"coordinates":[172,-43.38333],"type":"Point"}
 }

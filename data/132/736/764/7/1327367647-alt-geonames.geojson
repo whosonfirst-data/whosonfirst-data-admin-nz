@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"geonames",
     "src:geom":"geonames",
-    "wof:geomhash":"0718e40d64d69203c1f233dfb1859d9e",
+    "wof:geomhash":"986616c3742e34fa1cfef3ae8c67b990",
     "wof:id":1327367647,
     "wof:repo":"whosonfirst-data-admin-nz"
 },
@@ -14,5 +14,5 @@
     170.8,
     -45.0
 ],
-  "geometry": {"coordinates":[170.80000000000001,-45.0],"type":"Point"}
+  "geometry": {"coordinates":[170.8,-45],"type":"Point"}
 }

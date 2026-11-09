@@ -53,7 +53,7 @@
         "wk:page":"Winscombe%2C_New_Zealand"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b711f27aab000b9b0c464ce72d53a4ef",
+    "wof:geomhash":"a2d9797a6928b223a7c93df556d1d514",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,5 +87,5 @@
     170.83333,
     -44.0
 ],
-  "geometry": {"coordinates":[170.83332999999999,-44.0],"type":"Point"}
+  "geometry": {"coordinates":[170.83333,-44],"type":"Point"}
 }

@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"qs_pg",
     "src:geom":"qs_pg",
-    "wof:geomhash":"6ccb7a28dc770dcf494647da2c4761d7",
+    "wof:geomhash":"847eb1a2a3f25977fed00d0ed49f11aa",
     "wof:id":1125951015,
     "wof:repo":"whosonfirst-data-admin-nz"
 },
@@ -14,5 +14,5 @@
     169.0,
     -46.63333
 ],
-  "geometry": {"coordinates":[169.0,-46.63333],"type":"Point"}
+  "geometry": {"coordinates":[169,-46.63333],"type":"Point"}
 }

@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"83604fe3cce36923cf31d25f248485c2",
+    "wof:geomhash":"ac239c1b27d8c00232aab24961b5c7b0",
     "wof:id":101914427,
     "wof:repo":"whosonfirst-data-admin-nz"
 },
@@ -14,5 +14,5 @@
     173.68968594202448,
     -42.40118055774085
 ],
-  "geometry": {"coordinates":[173.68968594202448,-42.40118055774085],"type":"Point"}
+  "geometry": {"coordinates":[173.689686,-42.401181],"type":"Point"}
 }
