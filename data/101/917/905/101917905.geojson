@@ -103,12 +103,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Inangahua"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4f0a\u5357\u963f\u74e6\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u4f0a\u5357\u52a0\u74e6\u6cb3"
-    ],
     "nz-linz:id":2177,
     "nz-linz:name":"Inangahua",
     "nz-linz:type":"LOCALITY",
@@ -168,7 +162,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495126,
+    "wof:lastmodified":1794999722,
     "wof:name":"Inangahua",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

@@ -77,12 +77,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Miranda"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7c73\u5170\u8fbe\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7c73\u862d\u9054\u6cb3"
-    ],
     "nz-linz:id":2720,
     "nz-linz:name":"Miranda",
     "nz-linz:type":"LOCALITY",
@@ -153,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495136,
+    "wof:lastmodified":1794999722,
     "wof:name":"Miranda",
     "wof:parent_id":102079263,
     "wof:placetype":"locality",

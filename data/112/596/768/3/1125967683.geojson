@@ -93,9 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Hurunui"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u80e1\u9c81\u52aa\u4f0a\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u80e1\u9b6f\u52aa\u4f0a"
     ],
@@ -165,7 +162,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495133,
+    "wof:lastmodified":1794999722,
     "wof:name":"Hurunui",
     "wof:parent_id":102079365,
     "wof:placetype":"locality",

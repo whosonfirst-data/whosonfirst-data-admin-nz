@@ -106,12 +106,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Turakina"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u56fe\u62c9\u57fa\u7eb3\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5716\u62c9\u91d1\u90a3\u6cb3"
-    ],
     "nz-linz:id":4040,
     "nz-linz:name":"Turakina",
     "nz-linz:type":"LOCALITY",
@@ -153,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495137,
+    "wof:lastmodified":1794999722,
     "wof:name":"Turakina",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

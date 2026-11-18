@@ -78,12 +78,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Waitaki"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6000\u5854\u57fa\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5a01\u5854\u57fa\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -115,7 +109,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495071,
+    "wof:lastmodified":1794999722,
     "wof:name":"Waitaki",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

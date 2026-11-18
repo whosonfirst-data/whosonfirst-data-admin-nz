@@ -78,12 +78,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Wairau"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5a01\u8001\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5a01\u52de\u6cb3"
-    ],
     "qs_pg:aaroncc":"NZ",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Wairau",
@@ -139,7 +133,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495128,
+    "wof:lastmodified":1794999722,
     "wof:name":"Wairau",
     "wof:parent_id":102079353,
     "wof:placetype":"locality",

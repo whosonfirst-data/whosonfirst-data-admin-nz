@@ -85,12 +85,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Pukaki"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u666e\u5361\u57fa\u6e56"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u666e\u5361\u57fa\u6cb3"
-    ],
     "nz-linz:name":"Pukaki",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -126,7 +120,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495096,
+    "wof:lastmodified":1794999722,
     "wof:name":"Pukaki",
     "wof:parent_id":102079375,
     "wof:placetype":"locality",

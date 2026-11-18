@@ -78,12 +78,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Rakaia"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u62c9\u51ef\u963f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u62c9\u51f1\u4e9e\u6cb3"
-    ],
     "nz-linz:id":1355,
     "nz-linz:name":"Rakaia",
     "nz-linz:type":"SUBURB",
@@ -143,7 +137,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850106,
+    "wof:lastmodified":1794999722,
     "wof:name":"Rakaia",
     "wof:parent_id":102079371,
     "wof:placetype":"locality",

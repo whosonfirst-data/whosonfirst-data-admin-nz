@@ -92,9 +92,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ongarue"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7fc1\u52a0\u9c81\u4f0a\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u6069\u52a0\u9b6f"
     ],
@@ -167,7 +164,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495136,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ongarue",
     "wof:parent_id":102079297,
     "wof:placetype":"locality",

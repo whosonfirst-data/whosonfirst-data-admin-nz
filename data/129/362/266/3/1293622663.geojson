@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Pomahaka"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6ce2\u9a6c\u54c8\u5361\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6ce2\u99ac\u54c8\u5361\u6cb3"
-    ],
     "nz-linz:id":1276,
     "nz-linz:name":"Pomahaka",
     "nz-linz:type":"LOCALITY",
@@ -140,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495073,
+    "wof:lastmodified":1794999722,
     "wof:name":"Pomahaka",
     "wof:parent_id":102079389,
     "wof:placetype":"locality",

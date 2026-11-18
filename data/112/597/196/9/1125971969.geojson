@@ -92,12 +92,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Rangitata"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6717\u5409\u5854\u5854\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6717\u5409\u5854\u5854\u6cb3"
-    ],
     "nz-linz:id":1364,
     "nz-linz:name":"Rangitata",
     "nz-linz:type":"LOCALITY",
@@ -167,7 +161,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495131,
+    "wof:lastmodified":1794999722,
     "wof:name":"Rangitata",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

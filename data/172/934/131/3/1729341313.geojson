@@ -79,12 +79,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ruakituri"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9c81\u963f\u5947\u56fe\u91cc\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u9b6f\u57fa\u5716\u91cc\u6cb3"
-    ],
     "nz-linz:name":"Ruakituri",
     "nz-linz:type":"LOCALITY",
     "src:geom":"nz-linz",
@@ -120,7 +114,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495094,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ruakituri",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

@@ -100,12 +100,6 @@
     "name:vie_x_preferred":[
         "Ohau"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5965\u8c6a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5967\u8c6a\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -137,7 +131,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495073,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ohau",
     "wof:parent_id":102079381,
     "wof:placetype":"locality",

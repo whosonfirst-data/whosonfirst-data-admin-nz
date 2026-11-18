@@ -147,9 +147,6 @@
     "name:zho_cn_x_preferred":[
         "\u74e6\u5361\u5854\u5c3c"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u83ef\u5361\u5854\u5c3c\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u83ef\u5361\u5854\u5c3c"
     ],
@@ -218,7 +215,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850098,
+    "wof:lastmodified":1794999722,
     "wof:name":"Whakatane",
     "wof:parent_id":1729238615,
     "wof:placetype":"locality",

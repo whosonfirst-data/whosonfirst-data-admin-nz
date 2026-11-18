@@ -105,12 +105,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Orari"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5965\u62c9\u91cc\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5967\u62c9\u91cc\u6cb3"
-    ],
     "nz-linz:id":1124,
     "nz-linz:name":"Orari",
     "nz-linz:type":"LOCALITY",
@@ -153,7 +147,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495139,
+    "wof:lastmodified":1794999722,
     "wof:name":"Orari",
     "wof:parent_id":102079373,
     "wof:placetype":"locality",

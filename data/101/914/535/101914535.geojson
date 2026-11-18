@@ -80,12 +80,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Karamea"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5361\u62c9\u7c73\u4e9a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5361\u62c9\u7c73\u4e9e\u6cb3"
-    ],
     "nz-linz:id":2522,
     "nz-linz:name":"Karamea",
     "nz-linz:type":"LOCALITY",
@@ -146,7 +140,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850057,
+    "wof:lastmodified":1794999722,
     "wof:name":"Karamea",
     "wof:parent_id":102079357,
     "wof:placetype":"locality",

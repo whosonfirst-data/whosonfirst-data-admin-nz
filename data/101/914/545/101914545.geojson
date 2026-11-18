@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Wairoa"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6000\u7f57\u963f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5a01\u7f85\u4e9e\u6cb3"
-    ],
     "nz-linz:id":2622,
     "nz-linz:name":"Wairoa",
     "nz-linz:type":"SUBURB",
@@ -151,7 +145,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850074,
+    "wof:lastmodified":1794999722,
     "wof:name":"Wairoa",
     "wof:parent_id":102079327,
     "wof:placetype":"locality",

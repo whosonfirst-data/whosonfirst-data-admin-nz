@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Aparima"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u963f\u5e15\u5229\u739b\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u963f\u5e15\u91cc\u99ac\u6cb3"
-    ],
     "nz-linz:id":33,
     "nz-linz:name":"Aparima",
     "nz-linz:type":"LOCALITY",
@@ -140,7 +134,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495138,
+    "wof:lastmodified":1794999722,
     "wof:name":"Aparima",
     "wof:parent_id":102079391,
     "wof:placetype":"locality",

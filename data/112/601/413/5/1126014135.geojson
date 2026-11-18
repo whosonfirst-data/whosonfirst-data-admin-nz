@@ -89,12 +89,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Tongariro"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6c64\u52a0\u91cc\u7f57\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6771\u52a0\u91cc\u7f85\u6cb3"
-    ],
     "nz-linz:id":2344,
     "nz-linz:name":"Tongariro",
     "nz-linz:type":"LOCALITY",
@@ -164,7 +158,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495133,
+    "wof:lastmodified":1794999722,
     "wof:name":"Tongariro",
     "wof:parent_id":102079281,
     "wof:placetype":"locality",

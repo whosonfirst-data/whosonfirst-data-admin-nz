@@ -102,12 +102,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Moawhango"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u83ab\u65fa\u6208\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6469\u723e\u767c\u5b89\u54e5\u6cb3"
-    ],
     "nz-linz:id":826,
     "nz-linz:name":"Moawhango",
     "nz-linz:type":"LOCALITY",
@@ -149,7 +143,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495074,
+    "wof:lastmodified":1794999722,
     "wof:name":"Moawhango",
     "wof:parent_id":102079301,
     "wof:placetype":"locality",

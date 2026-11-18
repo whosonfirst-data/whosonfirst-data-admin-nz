@@ -48,12 +48,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Waiau"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6000\u5965\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5a01\u6fb3\u6cb3"
-    ],
     "nz-linz:id":259,
     "nz-linz:name":"Waiau",
     "nz-linz:type":"LOCALITY",
@@ -119,7 +113,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1636495128,
+    "wof:lastmodified":1794999722,
     "wof:name":"Waiau",
     "wof:parent_id":102079261,
     "wof:placetype":"locality",

@@ -101,12 +101,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Mokau"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u83ab\u8003\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u83ab\u8003\u6cb3"
-    ],
     "nz-linz:id":4089,
     "nz-linz:name":"Mokau",
     "nz-linz:type":"LOCALITY",
@@ -175,7 +169,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850145,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mokau",
     "wof:parent_id":85687229,
     "wof:placetype":"locality",

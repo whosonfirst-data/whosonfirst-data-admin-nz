@@ -101,12 +101,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Waitoa"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6000\u6258\u963f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5a01\u6258\u4e9e\u6cb3"
-    ],
     "nz-linz:id":1857,
     "nz-linz:name":"Waitoa",
     "nz-linz:type":"SUBURB",
@@ -165,7 +159,7 @@
         "eng",
         "mri"
     ],
-    "wof:lastmodified":1690850025,
+    "wof:lastmodified":1794999722,
     "wof:name":"Waitoa",
     "wof:parent_id":102079267,
     "wof:placetype":"locality",
