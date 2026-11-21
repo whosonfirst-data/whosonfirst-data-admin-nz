@@ -11,8 +11,8 @@
     "geom:longitude":175.458887,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-36.857115,
-    "lbl:longitude":175.440759,
+    "lbl:latitude":-36.820659,
+    "lbl:longitude":175.471833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.819033,
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Waikato",

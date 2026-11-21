@@ -12,8 +12,8 @@
     "gn:population":47287,
     "iso:country":"NZ",
     "lbl:bbox":"168.314112,-46.503741,168.465303,-46.336514",
-    "lbl:latitude":-46.406304,
-    "lbl:longitude":168.368637,
+    "lbl:latitude":-46.411391,
+    "lbl:longitude":168.351591,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":-46.411349,
@@ -248,7 +248,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:latitude":-46.416667,
     "wd:longitude":168.266667,

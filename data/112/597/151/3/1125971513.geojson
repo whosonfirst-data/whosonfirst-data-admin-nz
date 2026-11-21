@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-45.01667,
-    "lbl:longitude":169.21667,
+    "lbl:latitude":-45.005426,
+    "lbl:longitude":169.201551,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-45.004049,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Otago",

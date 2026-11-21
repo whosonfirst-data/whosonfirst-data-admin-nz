@@ -10,8 +10,8 @@
     "geom:latitude":-35.843645,
     "geom:longitude":174.486984,
     "iso:country":"NZ",
-    "lbl:latitude":-35.87855,
-    "lbl:longitude":174.462852,
+    "lbl:latitude":-35.844225,
+    "lbl:longitude":174.48632,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-35.844833,
@@ -58,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":295,
     "wof:belongsto":[
         102191583,

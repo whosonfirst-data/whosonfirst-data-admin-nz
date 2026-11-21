@@ -13,8 +13,8 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"NZ",
-    "lbl:latitude":-40.98333,
-    "lbl:longitude":174.95,
+    "lbl:latitude":-41.04223,
+    "lbl:longitude":174.944559,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-41.041991,
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Wellington",

@@ -12,8 +12,8 @@
     "gn:country":null,
     "gn:id":"",
     "iso:country":"NZ",
-    "lbl:latitude":-36.982492,
-    "lbl:longitude":174.82539,
+    "lbl:latitude":-36.976104,
+    "lbl:longitude":174.85688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-36.975984,
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Auckland Region",

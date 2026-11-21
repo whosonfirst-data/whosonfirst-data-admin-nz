@@ -11,8 +11,8 @@
     "geom:longitude":172.755468,
     "gn:country":null,
     "iso:country":"NZ",
-    "lbl:latitude":-43.590324,
-    "lbl:longitude":172.803697,
+    "lbl:latitude":-43.656463,
+    "lbl:longitude":172.751828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":-43.656886,
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424916,
     "woe:name_adm0":"New Zealand",
     "woe:name_adm1":"Canterbury",
